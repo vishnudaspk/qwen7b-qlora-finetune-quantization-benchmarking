@@ -152,9 +152,10 @@ Pull requests are welcome! For significant changes, please open an issue first t
 
 ## 👨‍💻 Author
 
-**Vishnu Das P K**
-AI Engineer | Research Enthusiast
-📧 [[your-email@example.com](mailto:vishnu71y13@gmail.com)]
+**Vishnu Vichu**  
+AI Engineer | Research Enthusiast  
+📧 [vishnu71y13@gmail.com](mailto:vishnu71y13@gmail.com)
+
 ---
 
 ## ⭐ Acknowledgments
