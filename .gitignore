@@ -1,0 +1,77 @@
+# -------------------------
+# Python cache & build files
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# -------------------------
+# Virtual environments
+# -------------------------
+env/
+venv/
+.venv/
+*.env
+*.venv/
+.conda/
+.conda_env/
+
+# -------------------------
+# Jupyter Notebook checkpoints
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Logs & temp files
+# -------------------------
+*.log
+*.tmp
+*.bak
+
+# -------------------------
+# OS generated files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# IDE settings
+# -------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -------------------------
+# Output directories
+# -------------------------
+# Ignore model checkpoints & large intermediate outputs
+outputs/qwen7b_lora_2bit/
+outputs/qwen7b_lora_4bit/
+outputs/qwen7b_lora_8bit/
+outputs/cache/
+outputs/tmp/
+
+# Keep small artifacts like graphs
+!outputs/**/*.png
+!outputs/**/*.jpg
+!outputs/**/*.csv
+
+# -------------------------
+# Git LFS handled files (already tracked)
+# -------------------------
+*.safetensors
+*.bin
+*.pt
+
+# -------------------------
+# Miscellaneous
+# -------------------------
+*.swp
+*.swo
