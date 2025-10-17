@@ -152,7 +152,7 @@ Pull requests are welcome! For significant changes, please open an issue first t
 
 ## 👨‍💻 Author
 
-**Vishnu Vichu**  
+**Vishnu Das P K**  
 AI Engineer | Research Enthusiast  
 📧 [vishnu71y13@gmail.com](mailto:vishnu71y13@gmail.com)
 
